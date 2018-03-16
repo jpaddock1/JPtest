@@ -11,5 +11,5 @@
       guest: jojjtestansible
       state: powered_off
       esxi:
-        datacenter: Reading-Dev
-        hostname: ukrdsesxi001.dbpoc.uk
+        datacenter: <myvmware-datacenter>
+        hostname: <,y esi host>
